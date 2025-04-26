@@ -8,6 +8,3 @@ tqdm
 scikit-learn
 streamlit
 bing-image-downloader
-
-#local pacages-
--e .
